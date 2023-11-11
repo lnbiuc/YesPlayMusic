@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://muc-api.lnbiuc.com/:match*"
+      "destination": "https://service-hsgc0uch-1308549476.cd.apigw.tencentcs.com/release/:match*"
     }
   ]
 }
