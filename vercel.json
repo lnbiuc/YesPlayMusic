@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://muc-api.lnbiuc.com/release/:match*"
+      "destination": "https://muc-api.lnbiuc.com/:match*"
     }
   ]
 }
